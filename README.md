@@ -152,8 +152,8 @@ A few things this project tries to get right:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/madebymaxx/Digital-Banking-System-Microservices.git
-cd Digital-Banking-System-Microservices
+git clone https://github.com/madebymaxx/digital-banking-system-microservices.git
+cd digital-banking-system-microservices
 ```
 
 ### 2. Start infrastructure
@@ -207,7 +207,7 @@ http://localhost:8080
 ## Project Structure
 
 ```
-Digital-Banking-System-Microservices/
+digital-banking-system-microservices/
 ├── account-service/
 ├── api-gateway/
 ├── fraud-detection-service/
